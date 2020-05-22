@@ -1,7 +1,6 @@
 package gg.bayes.challenge.persistent.repository;
 
 import gg.bayes.challenge.persistent.entity.HeroDamage;
-import gg.bayes.challenge.rest.model.HeroSpells;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
